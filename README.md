@@ -1,1 +1,1 @@
-# Stock-Sentiment-Analysis
+# Gold Price Prediction
