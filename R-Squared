@@ -9,4 +9,4 @@ R-squared is always between 0 and 100%:
 
 0% indicates that the model explains none of the variability of the response data around its mean.
 100% indicates that the model explains all the variability of the response data around its mean.
-In general, the higher the R-squared, the better the model fits your data. However, there are important conditions for this guideline that I’ll talk about both in this post and my next post.
+In general, the higher the R-squared, the better the model fits your data.
